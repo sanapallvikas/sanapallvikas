@@ -1,16 +1,43 @@
-## Hi there 👋
+Hi there, I’m Sanapalli Vikas 👋
 
-<!--
-**sanapallvikas/sanapallvikas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech in Artificial Intelligence and Data Science
+💻 AI/ML Engineering Trainee at Calibo
+🔐 Interested in Cybersecurity and Blockchain
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌱 Learning Machine Learning, Data Science, and Generative AI
+* 💡 Interested in building practical projects and solving real-world problems
+* 🎯 Focused on improving my programming and analytical skills
+* 🤝 Open to learning, collaboration, and project opportunities
+
+🛠️ Technical Skills
+
+* Programming: C++, Python
+* Data & Databases: SQL
+* Web Technologies: HTML, CSS
+* AI & Data Science: Machine Learning fundamentals, Data Visualization
+* Cloud: AWS, Microsoft Azure
+* Specialization: Cybersecurity and Blockchain
+
+📂 Projects
+
+* Student Management System — C++
+* Machine Learning Model Deployment — Python, Streamlit
+* Logistic Regression Project — Machine Learning
+* Matplotlib Assessment — Python Data Visualization
+
+📜 Certifications
+
+* Microsoft Azure Fundamentals
+* AWS Certification
+* Automation Anywhere Advanced RPA Professional
+
+🔗 Connect With Me
+
+* GitHub: https://github.com/sanapallvikas
+* LinkedIn:https://www.linkedin.com/in/sanapalli-vikas-8a95772b4/
+
+⸻
+
+⭐ Thanks for visiting my profile!
