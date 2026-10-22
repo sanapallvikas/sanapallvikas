@@ -1,7 +1,7 @@
 Hi there, I’m Sanapalli Vikas 👋
 
 🎓 B.Tech in Artificial Intelligence and Data Science
-💻 AI/ML Engineering Trainee at Calibo
+💻 AI Engineering Trainee at Calibo
 🔐 Interested in Cybersecurity and Blockchain
 
 🚀 About Me
